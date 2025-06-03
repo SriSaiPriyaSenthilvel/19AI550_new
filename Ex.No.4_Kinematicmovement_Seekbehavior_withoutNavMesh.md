@@ -53,13 +53,17 @@ public class Script : MonoBehaviour
 ```
 ### Output:
 
+Before:
 
+![image](https://github.com/user-attachments/assets/84614456-dec4-4e7e-a0a3-36d05605dae6)
 
+![image](https://github.com/user-attachments/assets/bdd7c971-e86f-4766-a53a-318f355e70a0)
 
+After:
 
+![image](https://github.com/user-attachments/assets/da12bfd0-c69b-405e-816d-06ac3aba0076)
 
-
-
+![image](https://github.com/user-attachments/assets/042f80bd-b852-470c-8c19-83f550737f54)
 
 ### Result:
 Thus the simple seek behavior was implemented successfully.
