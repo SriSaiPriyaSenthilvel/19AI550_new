@@ -21,7 +21,7 @@ Press Spacebar to jump
 Your cube should only jump when touching the ground
 
 ###
-**Program **
+## Program:
 ```
 using UnityEngine;
 
@@ -56,11 +56,13 @@ public class PlayerJump : MonoBehaviour
 ```
 ### Output:
 
+Before Jumping:
+
 ![image](https://github.com/user-attachments/assets/1815f016-1df9-4893-a324-6eaed021824e)
 
 ![image](https://github.com/user-attachments/assets/5b582539-d143-477c-a7a0-37203282b20d)
 
-Jumping:
+After Jumping:
 
 ![image](https://github.com/user-attachments/assets/b86d05a3-8e0f-46bf-bf43-80e5a68d9357)
 
